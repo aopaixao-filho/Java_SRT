@@ -25,6 +25,5 @@ public class Exemplo1 {
 		} finally {
 			scanner.close();
 	 }
-		
+	}
   }
-	
